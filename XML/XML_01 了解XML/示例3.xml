@@ -1,0 +1,19 @@
+<?xml   version="1.0"  encoding="UTF-8"?>
+<data>
+	<student>
+		<id> 20180001</id>
+		<name> shao </name>
+		<sex> true </sex>
+		<cellphone> 13810012345</cellphone>	
+	</student>
+	
+	<student>
+		<id> 20180002</id>
+		<name> wang </name>
+		<sex> true </sex>
+		<cellphone> 13822244452</cellphone>	
+	</student>
+
+</data>
+
+

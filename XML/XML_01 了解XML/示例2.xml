@@ -1,0 +1,13 @@
+<?xml   version="1.0"  encoding="UTF-8"?>
+<student>
+	<id> 20180001</id>
+	<name> 邵发 </name>
+	<sex> true </sex>
+	<cellphone> 13810012345</cellphone>	
+
+	<score>
+		<chinese> 99 </chinese>
+		<math> 98 </math>
+		<english> 97 </english>
+	</score>	
+</student>
